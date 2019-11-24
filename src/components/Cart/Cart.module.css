@@ -1,0 +1,27 @@
+.Total{
+
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.btn{
+    
+    
+    text-transform: uppercase;
+   
+    display: inline-block;
+    font-weight: 500;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: .25rem;
+    padding: .375rem .75rem;
+    margin-left: 4px;
+}
+
+
+
+.btn:hover{
+    color:#fff;
+    background-color: black;
+    border-color: black;
+}

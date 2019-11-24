@@ -1,0 +1,45 @@
+.title{
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+img:hover{
+    transform: scale(1.2);
+}
+
+.image{
+    transition: all 1s linear;
+}
+
+
+.cartbtn {
+    position: absolute;
+    bottom: 90px;
+    right: 90px;
+    padding: 0.2rem 0.4rem;
+    background: black;
+    border: none;
+    color:#F9D238;;
+    font-size: 1.4rem;
+    border-radius: 0.5rem;
+    transform: translate(100%, 100%);
+    transition: all 1s ease-in-out;
+  }
+
+  .cartbtn:hover{
+      cursor: pointer;
+      background:#F9D238;
+      color: black;
+
+  }
+
+  .cartbtn:disabled{
+      cursor: auto;
+      background:#F9D238;
+      color: black;
+
+  }
+
+

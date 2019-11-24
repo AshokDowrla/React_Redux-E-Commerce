@@ -1,0 +1,28 @@
+.text{
+    font-style: italic;
+    font-family: cursive;
+    
+}
+
+.heading{
+    color: rgb(90, 82, 51);
+
+}
+
+
+.button{
+    text-transform: capitalize;
+    font-size: 1.4rem;
+    background: black;
+    border: 0.10rem solid #F9D238;
+    border-radius: 0.5rem;
+    color:#F9D238;
+    padding: 0.2rem 0.5rem;
+  display: inline-block;
+}
+
+
+.button:hover{
+    color:black;
+    background-color: #F9D238
+}

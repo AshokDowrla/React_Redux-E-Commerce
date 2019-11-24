@@ -1,0 +1,48 @@
+.text{
+    color: #F9D238;
+    font-size: 30px;
+    
+
+
+}
+a.text{
+    text-decoration: none;
+    font-family: cursive ;
+    
+}
+
+.text:hover{
+    color:rgb(182, 189, 87);
+}
+
+
+.products{
+    margin-bottom: 1rem;
+    
+}
+
+.mycart{
+    text-transform: capitalize;
+  font-size: 1.4rem;
+  background: transparent;
+  border: 0.09rem solid #F9D238;
+  cursor: pointer;
+  color: #F9D238;
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  display: inline-block;
+  transition: all 0.5s ease-in-out;
+  
+}
+
+.mycart:hover{
+    color:black;
+    background-color: #F9D238
+}
+
+
+
+.Nav{
+
+    background: black;
+}
