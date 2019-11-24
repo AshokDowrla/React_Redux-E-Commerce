@@ -1,3 +1,11 @@
+A React-Redux Mobile E-Commerce Website to add products to the cart, select their quantity and buy
+
+
+Fire base demo: https://redux-ecommerce.firebaseapp.com/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
