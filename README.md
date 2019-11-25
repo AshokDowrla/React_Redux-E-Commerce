@@ -1,7 +1,7 @@
 A React-Redux Mobile E-Commerce Website to add products to the cart, select their quantity and buy
 
 
-Fire base demo: https://redux-ecommerce.firebaseapp.com/
+Firebase demo: https://redux-ecommerce.firebaseapp.com/
 
 
 
